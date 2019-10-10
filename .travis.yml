@@ -3,3 +3,7 @@ node_js:
   - '10.16.1'
   install:
   - npm install
+arch:
+  - amd64
+  - arm64
+os: linux
